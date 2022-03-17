@@ -74,6 +74,7 @@ body {
 .button-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin-top: 2rem;
   position: relative;
   top: 30%;
